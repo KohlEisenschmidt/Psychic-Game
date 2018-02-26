@@ -1,4 +1,4 @@
-{/* <script type="text/javascript">
+console.log("working")
 
 var compoptions = ["a", "b", "c", "d", "e", "f", 
                   "g", "h", "i", "j", "k",
@@ -13,6 +13,7 @@ var guessessofar =0;
 
 
 document.onkeyup = function() {
+  console.log("woossldkfj")
    var userguess = String.fromCharCode(event.keyCode).toLowerCase();
 
    console.log(userguess)
@@ -61,4 +62,3 @@ document.onkeyup = function() {
 
 
 }
-</script> */}
