@@ -46,7 +46,7 @@ document.onkeyup = function() {
    }
 
    if (guesses===0){
-       alert("Your all out of luch Buddy. Better luck next time");
+       alert("Your all out of luck Buddy. Better luck next time");
        location.reload();
    }
 
